@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 
+"""Download specific http url image file which login need"""
+
+__author__ = "SeongJae Park"
+__email__ = "sj38.park@gmail.com"
+__copyright__ = "Copyright (c) 2013, SeongJae Park"
+__license__ = "GPLv3"
+
 import os
 import sys
 
